@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letchu-react-project/static/css/main.262daaf1.css",
+    "main.js": "/letchu-react-project/static/js/main.11b4a9f1.js",
+    "static/js/787.0e6a544a.chunk.js": "/letchu-react-project/static/js/787.0e6a544a.chunk.js",
+    "index.html": "/letchu-react-project/index.html",
+    "main.262daaf1.css.map": "/letchu-react-project/static/css/main.262daaf1.css.map",
+    "main.11b4a9f1.js.map": "/letchu-react-project/static/js/main.11b4a9f1.js.map",
+    "787.0e6a544a.chunk.js.map": "/letchu-react-project/static/js/787.0e6a544a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262daaf1.css",
+    "static/js/main.11b4a9f1.js"
+  ]
+}
